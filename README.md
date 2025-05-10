@@ -138,7 +138,7 @@ Use cases help prioritize development tasks based on which user interactions are
 **Use Cases:** Search Hotels, Select Room, Enter Guest Details, Make Payment, Receive Confirmation
 
 **Use Case Diagram**
-![alx-booking-uc](https://github.com/user-attachments/assets/15788a8c-e646-41ae-a30f-327b83357e2b)
+https://drive.google.com/file/d/17QQa98_Kid5R666ohULjNo-EKzWTKsSx/view?usp=sharing 
 
 
 ## Acceptance Criteria.
