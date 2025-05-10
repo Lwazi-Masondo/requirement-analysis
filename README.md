@@ -138,7 +138,7 @@ Use cases help prioritize development tasks based on which user interactions are
 **Use Cases:** Search Hotels, Select Room, Enter Guest Details, Make Payment, Receive Confirmation
 
 **Use Case Diagram**
-https://drive.google.com/file/d/17QQa98_Kid5R666ohULjNo-EKzWTKsSx/view?usp=sharing 
+**alx-booking-uc.png:** https://drive.google.com/file/d/17QQa98_Kid5R666ohULjNo-EKzWTKsSx/view?usp=sharing 
 
 
 ## Acceptance Criteria.
@@ -157,8 +157,8 @@ Acceptance criteria are specific, predefined conditions that a software feature 
 
 **Improve Stakeholder Communication:** They serve as a contract between stakeholders and the development team, aligning expectations.
 
-Example: Acceptance Criteria for Checkout Feature in a Booking Management System
-Feature: Checkout Process for Hotel Booking
+*Example: Acceptance Criteria for Checkout Feature in a Booking Management System*
+*Feature: Checkout Process for Hotel Booking*
 
 **Acceptance Criteria:**
 
